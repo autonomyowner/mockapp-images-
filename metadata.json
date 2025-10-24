@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Merch Mockup AI",
+  "description": "An AI-powered application that generates on-demand merchandise mockups from an image and a text prompt using the Gemini 2.5 Flash Image model.",
+  "requestFramePermissions": []
+}
